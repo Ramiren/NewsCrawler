@@ -1,0 +1,2 @@
+export PATH=$PATH:/Users/roman/Documents/Documents/Studium\ Informationswissenschaften/HS_2016/PROG/Code/NLP-Projekt/mongodb-osx-x86_64-3.4.1/bin
+mongod --dbpath /Users/roman/Documents/Documents/Studium\ Informationswissenschaften/HS_2016/PROG/Code/NLP-Projekt/data/db --logpath /Users/roman/Documents/Documents/Studium\ Informationswissenschaften/HS_2016/PROG/Code/NLP-Projekt/data/log/mongo.log --logappend --rest --httpinterface
