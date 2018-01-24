@@ -1,4 +1,4 @@
-# Instalation
+# Installation
 **TODO**
 # Paper on ISI 2017 in Berlin
 ## Introduction
